@@ -132,6 +132,9 @@ certificates:
 contact_form:
   enabled: true
   formspree_url: "https://formspree.io/f/{your_form_id}" # Replace with your Formspree endpoint
+plugins:
+  - jekyll-jupyter-notebook
+
 
 
 
